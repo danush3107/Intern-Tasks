@@ -1,0 +1,1 @@
+I have downloaded a random dataset from kaggle which is Top games over the years and their user attractions. Using the dataset i was given the task of doing the EDA of which are all the insights that i can derive from it. So , i have come up with 10 questions of my own to elaborate the dataset to showcase the insights of it.
