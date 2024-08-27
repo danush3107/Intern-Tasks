@@ -1,0 +1,1 @@
+I hereby attach today's work of a dashboard with a sample dataset of sales in different countries in it. This is the first project in Tableau which i have done for understanding , more in upcoming tasks i will try to increase the difficulty level so that i will learn more 
